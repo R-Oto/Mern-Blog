@@ -1,6 +1,6 @@
 import React from 'react'
 
-const home = () => {
+const ErrorPage = () => {
   return (
     <div className=''>
         
@@ -8,4 +8,4 @@ const home = () => {
   )
 }
 
-export default home;
+export default ErrorPage;
