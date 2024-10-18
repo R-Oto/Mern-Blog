@@ -207,3 +207,13 @@ footer{
     font-weight: 300;
     font-size: medium;
 }
+
+/* error page */
+
+.center{
+    text-align: center;
+    padding-top: 1rem;
+    display: grid;
+    place-items: center;
+    min-height: 50vh;
+}
